@@ -302,7 +302,6 @@ footer a {
     font-size: 50px;
     transition: 0.5s ease;
     user-select: none;
-    -webkit-user-select: none;
 }
 .next {
     cursor: pointer;
@@ -316,7 +315,6 @@ footer a {
     font-size: 50px;
     transition: 0.5s ease;
     user-select: none;
-    -webkit-user-select: none;
 }
 
 .numbertext {
